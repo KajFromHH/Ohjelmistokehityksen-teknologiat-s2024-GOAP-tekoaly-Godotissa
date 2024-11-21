@@ -52,9 +52,14 @@ ja yksi kentä. Olkoon hahmo olla nimeltään Simon selkeyden vuoksi.
 ruoka (posittiivinen) ja ansa (negatiivinen). Kentä voi olla tyyppiltään sokkelo kuten kuvassa 1.
 4) Ei pelattava hahmo Simon yhdistetetään GOAP-tekoälyyn. 
 5) Tarkistamme, miten Simon reagoi ympäristöön ja palauteisiin (ruokiin ja ansoihin).
-6) Tavaoitteena on, että Simon-hahmo yrittää löytää nopeasti ja tehokkaasti ruoat. Samalla hän varoo ja peräntyy ansoista.
+6) Simon-hahmolla on kaksi yritystä (simon_lives == 1). Hän menettää yrityksen, jos hän osuu ansaan.
+Hän saa lisää yrityksiä, kun kerää ruokia. Peli päätyy kahdella tavalla:
+  * Simon-hahmo kerää kaikki ruokia (food_found >= 4).
+  * Simon-hahmon yritysmäärä on negatiivinen (simon_lives < 0), 
+7) Tavaoitteena on, että Simon-hahmo yrittää löytää nopeasti ja tehokkaasti ruoat. Samalla hän varoo ja peräntyy ansoista.
 
-![Konsepti_GOAP_tekoälylle](https://github.com/user-attachments/assets/34fd90c0-899b-4710-ad01-9c1e17cc92ef)
+
+![Konsepti_GOAP_tekoälylle_v2](https://github.com/user-attachments/assets/dfe58c8a-2323-4d74-8fde-8fdb10bee715)
 Kuva 1: Yksinkertainen piirrosluonnos kyseisestä simulaatorista.
 
 

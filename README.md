@@ -30,8 +30,8 @@ Suositus on, että aihe on projektin tekijälle (Kaj Peter Jansson) kiinnostava 
 
 <ins>Klo 14 - ...</ins>
 
-A) Luoin repon ja README.md -tiedoston seminaariyölleni.
-B) Kirjoitin sisältöä 1. Johdantoon.
+1. Luoin repon ja README.md -tiedoston seminaariyölleni.
+2. Kirjoitin sisältöä 1. Johdantoon.
 
 </details>
 

@@ -28,7 +28,7 @@ Suositus on, että aihe on projektin tekijälle (Kaj Peter Jansson) kiinnostava 
 
 <details><summary><strong>Torstai 21.11.2024 Projektin käynnistys ja README.md kirjoitaminen</strong></summary>
 
-<strong><u>Klo 14 - ...</u></strong>
+<u>Klo 14 - ...</u>
 
 A) Luoin repon ja README.md -tiedoston seminaariyölleni.
 b) Kirjoitin sisältöä 1. Johdantoon.

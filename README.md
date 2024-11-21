@@ -46,16 +46,28 @@ huomattavasti projektin skaalausta.
 
 1) Ensiksi, en luo pelaatavaa prototyypiä. Sen sijaan luon simulaatorin, jossa on yksi ei pelattava hahmo (NPC)
 ja yksi kentä. Olkoon hahmo olla nimeltään Simon selkeyden vuoksi.
+
+
 2) Toiseksi, koko simulaatori on kaksiuloiteinen (2D) jossa on yksinkertaisia symboleja (kuutio, kolmio, ympyrä, jne.).
 3D ja realistiset tai sarjakuvamaisia hahmosuunnitelma on erittäin aikaavievää, eivätkä ole seminaarityön päätavoiteita.
+
+
 3) 2D-kentään lisätään Simon-hahmon sekä yksi posiitivinen palaute että yksi negatiivinen palaute. Pelitermeissä tämä voi olla 
 ruoka (posittiivinen) ja ansa (negatiivinen). Kentä voi olla tyyppiltään sokkelo kuten kuvassa 1.
+
+
 4) Ei pelattava hahmo Simon yhdistetetään GOAP-tekoälyyn. 
+
+
 5) Tarkistamme, miten Simon reagoi ympäristöön ja palauteisiin (ruokiin ja ansoihin).
+
+
 6) Simon-hahmolla on kaksi yritystä (simon_lives == 1). Hän menettää yrityksen, jos hän osuu ansaan.
 Hän saa lisää yrityksiä, kun kerää ruokia. Peli päätyy kahdella tavalla:
   * Simon-hahmo kerää kaikki ruokia (food_found >= 4).
   * Simon-hahmon yritysmäärä on negatiivinen (simon_lives < 0), 
+
+
 7) Tavaoitteena on, että Simon-hahmo yrittää löytää nopeasti ja tehokkaasti ruoat. Samalla hän varoo ja peräntyy ansoista.
 
 

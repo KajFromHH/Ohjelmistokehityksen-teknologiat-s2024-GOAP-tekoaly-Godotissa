@@ -15,11 +15,29 @@ Haaga-Helia ammattikorkeakoulu
 6. Lähteet
 
 ## 1. Johdanto
-Tämä projekti on lopputyö Ohjelmistokehityksen teknologiat -kurssille syksy 2024.
+Tämä projekti on seminaarityö Ohjelmistokehityksen teknologiat -kurssille syksy 2024.
+Seminaarityö on lopputyö koko kursille, jossa pitää käsitellä jonkun kurssin aiheita.
+Suositus on, että aihe on projektin tekijälle (Kaj Peter Jansson) kiinnostava ja motivoitava. 
 
 
 ### 1.1 Mikä on GOAP?
 
-### 1.2 
+### 1.2
+
+## 5. Appenix A: Työpäiväkirja.
+
+### Torstai 21.11.2024
+
+#### Klo 14 - ...
+
+A) Luoin repon ja README.md -tiedoston seminaariyölleni.
+b) Kirjoitin sisältöä 1. Johdantoon.
+
+### Lopullinen työaikataulukko
+
+21.11.2024: tuntia.
+22.11.2024:
+
+Yhteensä:
 
 ## Lähteet

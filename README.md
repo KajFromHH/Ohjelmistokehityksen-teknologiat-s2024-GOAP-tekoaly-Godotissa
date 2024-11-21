@@ -26,12 +26,9 @@ Suositus on, että aihe on projektin tekijälle (Kaj Peter Jansson) kiinnostava 
 
 ## 5. Appenix A: Työpäiväkirja.
 
-### Torstai 21.11.2024
-
-
 <details><summary><strong>Torstai 21.11.2024 Projektin käynnistys ja README.md kirjoitaminen</strong></summary>
 
-#### Klo 14 - ...
+### Klo 14 - ...
 
 A) Luoin repon ja README.md -tiedoston seminaariyölleni.
 b) Kirjoitin sisältöä 1. Johdantoon.
@@ -39,15 +36,10 @@ b) Kirjoitin sisältöä 1. Johdantoon.
 </details>
 
 
-#### Klo 14 - ...
-
-A) Luoin repon ja README.md -tiedoston seminaariyölleni.
-b) Kirjoitin sisältöä 1. Johdantoon.
-
 ### Lopullinen työaikataulukko
 
-21.11.2024: tuntia.
-22.11.2024:
+* 21.11.2024: tuntia.
+* 22.11.2024: tuntia.
 
 Yhteensä:
 

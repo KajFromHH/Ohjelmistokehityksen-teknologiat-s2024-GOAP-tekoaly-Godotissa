@@ -104,7 +104,7 @@ Non Playable Character (NPC) -
   
 ---
 
-<ins>Klo 14 - 15</ins>
+<ins>Klo 14 - 16</ins>
 
 1. Luoin repon ja README.md -tiedoston seminaariyölleni.
 2. Kirjoitin sisältöä johdantoon.
@@ -116,7 +116,7 @@ Non Playable Character (NPC) -
 
 ### Lopullinen työaikataulukko
 
-* 21.11.2024: tuntia.
+* 21.11.2024: 2 tuntia.
 * 22.11.2024: tuntia.
 
 Yhteensä:

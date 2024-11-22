@@ -123,9 +123,12 @@ Non Playable Character (NPC) -
 
 ![GOAP-godot-01](https://github.com/user-attachments/assets/38344f8c-8940-454b-8a34-d831980a479b)
 
-![GOAP_tekoäly_01_luon_uuden_godot](https://github.com/user-attachments/assets/b5e7de5a-70ce-4762-bc2b-2665f265e3b4)
+
 
 Kuva 1 & 2: Uuden Godot projektin ikkuna. 
+
+Valitsin Forward+ formaatin, sillä se hallinnoi monimutkaisimpia ratkaisuja kuten kuvassa 1 ja 2
+näytää. Valettavasti tämä tarkoittaa, että renderöinti ja koodin kokoaminen voi kestää minuuttia. 
 
 ---
 

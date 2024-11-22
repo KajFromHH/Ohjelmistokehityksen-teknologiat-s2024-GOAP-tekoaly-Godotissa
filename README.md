@@ -23,8 +23,8 @@ Suositus on, että aihe on projektin tekijälle (Kaj Peter Jansson) kiinnostava 
 ### 1.1 Tausta ja tavoitteet
 Minä, Kaj Peter Jansson, kiinnostaa tutkia tekoälyä peleissä. Minua erityisen kiinnostaa
 pelien hahmojen käyttäytymistä, joka on fiksua tai odottamatonta. Minua harmittaa liiallisen
-ns. zombiemaiseen tekoälyyn, jossa mm. pelien viholliset ainoa tehtävä on löytää ja hyökätä
-pelajiin, eikä reagoi paljonkaan ympäristöön ja tilanteen.
+ns. zombiemaiseen tekoälyyn, jossa mm. pelien viholliset ainoa tehtävä on löytää ja hyökää
+pelaajaan, eikä reagoi paljonkaan ympäristöön ja tilanteen.
 
 Viime aikoina olen pelannut kulttiklassikkoa Metro 2033, jossa vihollisten käyttäytyminen
 on erikoisempi (ellei jopa epätäydellinen). Sen sijaan kuin hyökää suoraan pelaajiin, vihollinen

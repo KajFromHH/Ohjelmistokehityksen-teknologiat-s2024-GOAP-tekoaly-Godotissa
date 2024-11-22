@@ -137,6 +137,13 @@ Laitan tietysti version hallinta Gitiin, sillä julkaisemme koodiprojektin Githu
 Tallennan projektin kloonatuun Ohjelmistokehityksen-teknologiat-s2024-GOAP-tekoaly-Godotissa
 -hakemistoon Githubista.
 
+![GOAP_tekoäly_02_uuden_godot_pushattu_Githubiin](https://github.com/user-attachments/assets/298c1fcd-9ccd-476c-a7ef-71e484f2c9f2)
+
+![GOAP_tekoäly_03_uuden_godot_pushattu_Githubissa](https://github.com/user-attachments/assets/fd9b9efc-74c8-4a74-8edf-3c9a20d468c1)
+
+
+Kuva 3 & 4: Godot projektin julkaisu Githubiin.
+
 ---
 
 </details>

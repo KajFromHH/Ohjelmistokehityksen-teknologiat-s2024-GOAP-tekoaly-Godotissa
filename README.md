@@ -126,7 +126,7 @@ Non Playable Character (NPC) -
   
 ---
 
-<ins>Klo 11 - </ins>
+<ins>Klo 11 - 12; </ins>
 
 1. Luoin uuden projektin Godotissa.
 

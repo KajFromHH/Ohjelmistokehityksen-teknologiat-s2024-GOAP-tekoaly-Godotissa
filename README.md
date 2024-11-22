@@ -111,7 +111,24 @@ Non Playable Character (NPC) -
 
 ---
 
-<ins>Klo 17 - </ins> 
+</details>
+
+<details><summary><strong>Perjantai 22.11.2024 Godotin pohja</strong></summary>
+  
+---
+
+<ins>Klo 11 - </ins>
+
+1. Luoin uuden projektin Godotissa.
+
+![GOAP-godot-01](https://github.com/user-attachments/assets/38344f8c-8940-454b-8a34-d831980a479b)
+
+![GOAP_tekoäly_01_luon_uuden_godot](https://github.com/user-attachments/assets/b5e7de5a-70ce-4762-bc2b-2665f265e3b4)
+
+Kuva 1 & 2: Uuden Godot projektin ikkuna. 
+
+---
+
 </details>
 
 ### Lopullinen työaikataulukko

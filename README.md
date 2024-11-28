@@ -135,7 +135,6 @@ Non Playable Character (NPC) -
 ![GOAP_tekoäly_01_luon_uuden_godot](https://github.com/user-attachments/assets/1c4fc613-d2ba-4d06-b2ba-bd711b69f5c5)
 
 
-
 Kuva 1 & 2: Uuden Godot projektin ikkuna. 
 
 Valitsin Forward+ formaatin, sillä se hallinnoi monimutkaisimpia ratkaisuja kuten kuvassa 1 ja 2
@@ -157,10 +156,20 @@ Kuva 3 & 4: Godot projektin julkaisu Githubiin.
 
 </details>
 
+<details>
+<summary><strong>Torstai 28.11.2024 Godotin alku</strong></summary> 
+---
+<ins>Klo </ins>
+Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
+ 
+</details>
+
+
 ### Lopullinen työaikataulukko
 
 * 21.11.2024: 2 tuntia.
-* 22.11.2024: tuntia.
+* 22.11.2024: 1 tuntia.
+* 28.11.2024:  tuntia.
 
 Yhteensä:
 

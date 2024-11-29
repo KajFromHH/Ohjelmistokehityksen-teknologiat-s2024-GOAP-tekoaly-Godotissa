@@ -225,7 +225,30 @@ johon kuuluu edellisessä dokumentaatiossa mainitun Dotnet -konfigurointi.
 
 Kuva 12: TheSolarString esittää Dotnet -asetusta Editor Settings:issä, aikaleima 3:07.
 
+Itse käytän **Godot Engine 4.3 Steam** versiota. Jos noudan videon mukaan kaikki vaiheet,
+joutuisin asentamaan erikseen **Godot Engine -.NET 4.3** ja uusimman **.NET 8.0 SDK** -version
+koneelleni. Varmistin terminaalistani, että minulla on tällä hetkellä .NET 7.0 -version
+asennettuna.
 
+![image](https://github.com/user-attachments/assets/40c00657-7fb7-428a-859f-56d511734f0f)
+
+Kuva 13: .NET -versio tarkistus terminaalissa.
+
+Miksi haluan mielummin käyttä Steamin version kuin Godot Engine -.NET
+on *Steamin automaatinen versiopäivitys*. Aiemmassa Godot 3 -versiossa joutui
+aina päivitämään kaikki uudemmat versiot (mukaan lukien .NET) **manuaalisesti**. Steamin versio
+on helpotaa suuresti päivityksessä.
+
+Tarkistessaan muita lähteitä, kuten Steamin foruumista, valettavasti Godot Engine 4.3 Steam -versio *ei tue* C#-kieltä ollenkaan.
+Se näkyy myös Godot Engine 4.3 Steam -versiossa, kun yritää luodaa uuden C#-skriptin mutta ominaisuutta ei löydy. Muun muassa, Project > Tools ei löydy C# > Create C# solution välikohtaa eikä uuden skriptissä voi valita C# -kielen.
+
+
+
+
+
+Kuva 14: Foruumin keskustelu Godot Engine 4.3 Steamin C#-tuesta ja demovideo sen puutevuudesta.
+
+Hämmentävää, sillä muistin Godot Engine 4 -version julkaisussa, 
  
 </details>
 

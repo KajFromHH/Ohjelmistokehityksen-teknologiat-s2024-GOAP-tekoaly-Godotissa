@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a6055669-713e-4f71-83fc-7c4723616612)# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
+# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
 
 Kaj Peter Jansson
 Tradenomi tietojenkäsittely
@@ -286,9 +286,18 @@ Kuva 18: C# Dev Kit -lisäys Visual Studio Code:iin asennettu.
 Avaan Godot Engine 4.3 -.NET -ohjelmiston, joka on nimeltään **Godot_v4.3-stable_mono_win64** Godot-hakemistossani (katso kuva 16).
 Luon sitten uudelleen saman projektin Git -repositoriin (poistin tietysti vanhan Steam-version pois).
 
+![GOAP-godot-04](https://github.com/user-attachments/assets/aad05f6c-ef03-40e6-a834-1a955ef78f13)
 
 
 Kuva 19: Godot projektin jälleenluonti Git -repositoriin.
+
+Pari huomautuksia kuvaan 19.
+
+HUOM.1) Projekti tallennettu väärään hakemistoon. Siirsin projektin 
+oikeaan Git -hakemistoon kuvanahoituksen jälkeen.
+
+HUOM.2) Jälleen nimensin projektin edellisestä "" uuteen "goap-godot-ohke" (ohke tulee lyhenteestä
+Ohjelmistokehityksen teknologiat -kurssin lyhenteestä).
 
 </details>
 

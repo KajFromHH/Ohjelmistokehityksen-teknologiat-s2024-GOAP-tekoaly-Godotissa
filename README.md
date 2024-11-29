@@ -157,13 +157,28 @@ Kuva 3 & 4: Godot projektin julkaisu Githubiin.
 </details>
 
 <details>
-<summary><strong>Torstai 28.11.2024 Godotin alku</strong></summary> 
+<summary><strong>Perjantai 29.11.2024 Godotin alku</strong></summary> 
+---
+<ins>Klo 16-</ins>
+Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
+ 
+</details>
+
+<details>
+<summary><strong>Perjantai 29.11.2024 Godotin jatko</strong></summary> 
 ---
 <ins>Klo </ins>
 Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
  
 </details>
 
+<details>
+<summary><strong>Sunnuntai 01.12.2024 Godotin loppu</strong></summary> 
+---
+<ins>Klo </ins>
+Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
+ 
+</details>
 
 ### Lopullinen työaikataulukko
 

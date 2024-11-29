@@ -179,7 +179,8 @@ Kuva 6: Godotin dokumentaatiot viralliselta sivustolta.
 
 Dokumentaatiosta löytyi mm. esivaatimuksia liityen C#-kielen käyttö. Koska Godot engine 4.3
 -versio käyttää oletuksena omaa kieltä, GDScript, joudun manuaalisesti konfiguroimaan C#-kielen
-Godotiin.
+Godotiin. Tarkka linkki dokumentaatioon on https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_basics.html .
+
 
 ![image](https://github.com/user-attachments/assets/b9d6567e-ef6b-474c-ba17-f698ccc78529)
 
@@ -192,6 +193,8 @@ Vaatimus 1) Varmista että sinulla on Visual Studio Code ja sen C#-lisäys asenn
 ![image](https://github.com/user-attachments/assets/a5e9a7ca-8c0f-40d7-be11-e0d0b0a6dcb3)
 
 Kuva 8: Visual Studio Code ja C#-lisäys asennettu.
+
+
 
 Valettavasti sivustolla ei ollut opasteet yksinkertaiseen sokkelon tekemiseen C# -kielellä.
 

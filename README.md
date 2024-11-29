@@ -1,4 +1,4 @@
-# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
+![image](https://github.com/user-attachments/assets/a6055669-713e-4f71-83fc-7c4723616612)# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
 
 Kaj Peter Jansson
 Tradenomi tietojenkäsittely
@@ -262,12 +262,38 @@ Asennan kyseisen Godot Engine 4.3 -.NET -version TheSolarString-käyttäjän vid
 
 Kuva 14: Godot Engine 4.3 -.NET -version (15.8.2024) julkaisu sivusto: https://godotengine.org/download/windows/ .
 
-Kuva 15: .NET SDK 8 -version julkaisu sivusto:
+![image](https://github.com/user-attachments/assets/f24b33f4-993b-46b3-a772-67602e4b387c)
+
+Kuva 15: .NET SDK 8 -version julkaisu sivusto: https://dotnet.microsoft.com/en-us/download/dotnet/8.0 .
+
+Olen nyt asentanut uudemmat versiot koneelleni.
+
+![image](https://github.com/user-attachments/assets/152e16d5-94e6-404e-b9e2-a6eee632e4bb)
+
+Kuva 16: Godot Engine 4.3 -.NET -versio Godot-hakemistossani koneellani.
+
+![image](https://github.com/user-attachments/assets/4fd987db-f1b3-4c75-974b-6387fe83d40a)
+
+Kuva 17: .NET 8.0.404 -versio löytyi terminaalista kommennolla *dotnet --list-sdks*. 
+
+TheSolarString-käyttäjä suosittelee asentaa myös Microsoftin virallinen **C# Dev Kit** -lisäyksen
+Visual Studio Codesta. Siinä sisältyy tavallisen C# -lisäyksen ohella muita tarpellisia ominaisuuksia.
+
+![image](https://github.com/user-attachments/assets/c2e4a303-9a5f-456a-8c22-6aaad9876d8f)
+
+Kuva 18: C# Dev Kit -lisäys Visual Studio Code:iin asennettu.
+
+Avaan Godot Engine 4.3 -.NET -ohjelmiston, joka on nimeltään **Godot_v4.3-stable_mono_win64** Godot-hakemistossani (katso kuva 16).
+Luon sitten uudelleen saman projektin Git -repositoriin (poistin tietysti vanhan Steam-version pois).
+
+
+
+Kuva 19: Godot projektin jälleenluonti Git -repositoriin.
 
 </details>
 
 <details>
-<summary><strong>Perjantai 29.11.2024 Godotin jatko</strong></summary> 
+<summary><strong>Lauantai 30.11.2024 Godotin jatko</strong></summary> 
 ---
 <ins>Klo </ins>
 Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 

@@ -301,7 +301,11 @@ Ohjelmistokehityksen teknologiat -kurssin lyhenteestä). Syynä liityy enimmäis
 Olen kohdistunut hyvin usein ongelmaan, sillä sekä väylät että projektin nimeissä käytän todella pitkiä nimejä. Vältäkseen ongelmasta, käytin siksi
 uuden, lyhemmän nimen.
 
+Pushasin uuden projektin Git -repositoriin Githubiin.
 
+![image](https://github.com/user-attachments/assets/83135c87-9f58-4fb0-a038-0c55b722a3f4)
+
+Kuva 20: Päivitetty pushaus Githubissa.
 
 </details>
 

@@ -240,10 +240,13 @@ aina päivitämään kaikki uudemmat versiot (mukaan lukien .NET) **manuaalisest
 on helpotaa suuresti päivityksessä.
 
 Tarkistessaan muita lähteitä, kuten Steamin foruumista, valettavasti Godot Engine 4.3 Steam -versio *ei tue* C#-kieltä ollenkaan.
+Kyseinen foruumin keskustelu löytyy linkistä https://steamcommunity.com/app/404790/discussions/0/4133808627038364598/ .
 Se näkyy myös Godot Engine 4.3 Steam -versiossa, kun yritää luodaa uuden C#-skriptin mutta ominaisuutta ei löydy. Muun muassa, Project > Tools ei löydy C# > Create C# solution välikohtaa eikä uuden skriptissä voi valita C# -kielen.
 
 
+![image](https://github.com/user-attachments/assets/5b831352-7d87-4718-8688-44017ad3d36b)
 
+![GOAP-godot-03](https://github.com/user-attachments/assets/0b4e87bd-7c38-4fd8-8b6c-80f09ebfc038)
 
 
 Kuva 14: Foruumin keskustelu Godot Engine 4.3 Steamin C#-tuesta ja demovideo sen puutevuudesta.

@@ -296,8 +296,12 @@ Pari huomautuksia kuvaan 19.
 HUOM.1) Projekti tallennettu väärään hakemistoon. Siirsin projektin 
 oikeaan Git -hakemistoon kuvanahoituksen jälkeen.
 
-HUOM.2) Jälleen nimensin projektin edellisestä "" uuteen "goap-godot-ohke" (ohke tulee lyhenteestä
-Ohjelmistokehityksen teknologiat -kurssin lyhenteestä).
+HUOM.2) Jälleen nimensin projektin edellisestä "goap-ohjelmistokehityksen-teknologiat" uuteen "goap-godot-ohke" (ohke tulee lyhenteestä
+Ohjelmistokehityksen teknologiat -kurssin lyhenteestä). Syynä liityy enimmäismäärän merkkejä, joita Git Bash sallii projektin julkaisussa.
+Olen kohdistunut hyvin usein ongelmaan, sillä sekä väylät että projektin nimeissä käytän todella pitkiä nimejä. Vältäkseen ongelmasta, käytin siksi
+uuden, lyhemmän nimen.
+
+
 
 </details>
 

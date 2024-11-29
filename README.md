@@ -159,8 +159,21 @@ Kuva 3 & 4: Godot projektin julkaisu Githubiin.
 <details>
 <summary><strong>Perjantai 29.11.2024 Godotin alku</strong></summary> 
 ---
-<ins>Klo 16-</ins>
-Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
+<ins>Klo 18-23</ins>
+Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
+
+Huomautus, että minulla on Godot Engine versio 4.3 asennettu Steamiin.
+
+![GOAP_tekoäly_29112024_01_Godot_versio](https://github.com/user-attachments/assets/a98b7cf0-ef09-4e9b-b35b-9a0fe6587101)
+
+Kuva 5: Godotin asennettu 4.3 -versio Steamissa.
+
+Tällöin päivitetty Godotin opas viralliselta sivustolta on hyötyä.
+Virallinen sivusto on https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html .
+
+![image](https://github.com/user-attachments/assets/fa6f3e69-ffdf-4245-adc8-c48af83541e3)
+
+Kuva 6: Godotin opas viralliselta sivustolta.
  
 </details>
 

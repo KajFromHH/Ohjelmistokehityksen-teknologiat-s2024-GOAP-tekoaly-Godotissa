@@ -162,18 +162,41 @@ Kuva 3 & 4: Godot projektin julkaisu Githubiin.
 <ins>Klo 18-23</ins>
 Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 
+
 Huomautus, että minulla on Godot Engine versio 4.3 asennettu Steamiin.
 
 ![GOAP_tekoäly_29112024_01_Godot_versio](https://github.com/user-attachments/assets/a98b7cf0-ef09-4e9b-b35b-9a0fe6587101)
 
 Kuva 5: Godotin asennettu 4.3 -versio Steamissa.
 
-Tällöin päivitetty Godotin opas viralliselta sivustolta on hyötyä.
+
+Tällöin päivitetty Godotin dokumentaatiot viralliselta sivustolta voi olla hyötyä.
 Virallinen sivusto on https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html .
 
 ![image](https://github.com/user-attachments/assets/fa6f3e69-ffdf-4245-adc8-c48af83541e3)
 
-Kuva 6: Godotin opas viralliselta sivustolta.
+Kuva 6: Godotin dokumentaatiot viralliselta sivustolta.
+
+Dokumentaatiosta löytyi mm. esivaatimuksia liityen C#-kielen käyttö. Koska Godot engine 4.3
+-versio käyttää oletuksena omaa kieltä, GDScript, joudun manuaalisesti konfiguroimaan C#-kielen
+Godotiin.
+
+![image](https://github.com/user-attachments/assets/b9d6567e-ef6b-474c-ba17-f698ccc78529)
+
+
+Kuva 7: Godotin virallisesti dokumentaatiot C#-kielen käyttöönottoon.
+
+Vaatimus 1) Varmista että sinulla on Visual Studio Code ja sen C#-lisäys asennettu.
+-> Olen tehnyt.
+
+![image](https://github.com/user-attachments/assets/a5e9a7ca-8c0f-40d7-be11-e0d0b0a6dcb3)
+
+Kuva 8: Visual Studio Code ja C#-lisäys asennettu.
+
+Valettavasti sivustolla ei ollut opasteet yksinkertaiseen sokkelon tekemiseen C# -kielellä.
+
+
+
  
 </details>
 

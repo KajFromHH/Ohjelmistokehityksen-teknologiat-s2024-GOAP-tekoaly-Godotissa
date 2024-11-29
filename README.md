@@ -251,8 +251,19 @@ Se näkyy myös Godot Engine 4.3 Steam -versiossa, kun yritää luodaa uuden C#-
 
 Kuva 14: Foruumin keskustelu Godot Engine 4.3 Steamin C#-tuesta ja demovideo sen puutevuudesta.
 
-Hämmentävää, sillä muistin Godot Engine 4 -version julkaisussa, 
- 
+Hämmentävää, sillä muistin Godot Engine 4 -version julkaisussa, että C#-kieli olisi vihdoin
+asennettu valmiiksi kaikki Godot Engine 4 -versioihin, mukaan lukien Steamin versioon.
+Näköjään muistin väärin ja joudun asentamaan viralliselta Godot-sivustolta
+**Godot Engine 4.3 -.NET** että uusimman .NET SDK 8 -version (*olipa suuri pettymys >:(*).
+
+Asennan kyseisen Godot Engine 4.3 -.NET -version TheSolarString-käyttäjän videon mukaisesti.
+
+![image](https://github.com/user-attachments/assets/1c76ede9-9431-4b60-8207-c1064ff9f9da)
+
+Kuva 14: Godot Engine 4.3 -.NET -version (15.8.2024) julkaisu sivusto: https://godotengine.org/download/windows/ .
+
+Kuva 15: .NET SDK 8 -version julkaisu sivusto:
+
 </details>
 
 <details>

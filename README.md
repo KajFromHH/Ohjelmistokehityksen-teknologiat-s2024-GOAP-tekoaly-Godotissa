@@ -194,10 +194,36 @@ Vaatimus 1) Varmista että sinulla on Visual Studio Code ja sen C#-lisäys asenn
 
 Kuva 8: Visual Studio Code ja C#-lisäys asennettu.
 
+Vaatimus 2) Muutaa Editor > Editor Setting > Dotnet > External Editor kohdassa Visual Studio Code.
 
+Valettavasti minun Godot Engine 4.3-version Steamissa ei löytynyt kyseistä konfigurointia.
 
-Valettavasti sivustolla ei ollut opasteet yksinkertaiseen sokkelon tekemiseen C# -kielellä.
+![GOAP-godot-02](https://github.com/user-attachments/assets/9455814f-6f0c-4316-9232-7aace120b050)
 
+Kuva 9: Puuttava Dotnet konfigurointi.
+
+Onneksi Visual Studio Code löytyy **C# Tools for Godot** -lisäys Ignacio Roldán Etcheverry,
+jos haluaa debuggata Godot C# -projekteja Visual Studio Codessa. Viimeisin päivitys oli 31.01.2023.
+
+![image](https://github.com/user-attachments/assets/c75e741b-ea43-4e56-864d-c3c68e620d7b)
+
+![image](https://github.com/user-attachments/assets/7241fd77-b537-4ed1-8a7e-1c06c1e7f41c)
+
+Kuva 10: C# Tools for Godot -lisäys Visual Studio Codessa.
+
+Muita opasteita Godot Engine 4.3-version C#-kielen konfigurointiin löytyy Youtubesta käyttäjältä The SolarString.
+Hänen videonsa julkaistiin 12 Marraskuuta 2024, joten hänen opastaa nimeomaan nykyisessä Godot Engine 4.3-versiossa.
+
+![image](https://github.com/user-attachments/assets/23d05586-6cc7-4d64-9f12-3b8fdb695bd3)
+
+Kuva 11: Youtuben TheSolarString -käyttäjän opasvideo C#-konfigurointiin Godot Engine 4.3-versiossa.
+
+Videosta huomaan, että TheSolarString -käyttäjä on asentanut **Godot Engine -.NET 4.3** -versiota,
+johon kuuluu edellisessä dokumentaatiossa mainitun Dotnet -konfigurointi.
+
+![image](https://github.com/user-attachments/assets/336e20e3-0d88-464e-b7db-c60370d58fa6)
+
+Kuva 12: TheSolarString esittää Dotnet -asetusta Editor Settings:issä, aikaleima 3:07.
 
 
  

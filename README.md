@@ -404,9 +404,16 @@ työskennellä kolme itsenäisiä palikkaa, joista tallennan neljä erikulmaisia
 
 ![image](https://github.com/user-attachments/assets/e79b69c3-9870-425b-8c8d-61a557df99cd) ![image](https://github.com/user-attachments/assets/26c1e9c1-e19a-44b9-b9d3-b6d17570d277) ![image](https://github.com/user-attachments/assets/c16ad833-fbcc-406d-a5d1-28380c5ffa3e) ![image](https://github.com/user-attachments/assets/2777e737-c8f5-4dfa-a3a9-d4c52f67559a)
 
-
 Kuva 29: Yhden palikkan ja niiden kolme käännettyjä kulmakuvia esimerkkejä.
 
+Samalla tein ei-pelattavalle Simon hahmolle, ruoalle ja ansalle omia kuvioita.
+
+![image](https://github.com/user-attachments/assets/68a49849-5267-47cc-a0d2-dd940e2f5f8d)
+ ![image](https://github.com/user-attachments/assets/2f0c0b17-b111-41dd-827c-6fa789e6f480)
+ ![image](https://github.com/user-attachments/assets/4c2cad7b-e647-49ca-81ff-3a792e621fcc)
+
+
+Kuva 30: Simon hahmo, ruoka ja ansa -kuviot.
 
 
 Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua

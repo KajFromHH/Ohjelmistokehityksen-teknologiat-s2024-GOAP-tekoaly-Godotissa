@@ -159,7 +159,7 @@ Kuva 3 & 4: Godot projektin julkaisu Githubiin.
 <details>
 <summary><strong>Perjantai 29.11.2024 Godotin alku</strong></summary> 
 ---
-<ins>Klo 18-23</ins>
+<ins>Klo 18-21</ins>
 Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 
 
@@ -301,17 +301,71 @@ Ohjelmistokehityksen teknologiat -kurssin lyhenteestä). Syynä liityy enimmäis
 Olen kohdistunut hyvin usein ongelmaan, sillä sekä väylät että projektin nimeissä käytän todella pitkiä nimejä. Vältäkseen ongelmasta, käytin siksi
 uuden, lyhemmän nimen.
 
+Pushasin uuden projektin Git -repositoriin Githubiin.
 
+![image](https://github.com/user-attachments/assets/83135c87-9f58-4fb0-a038-0c55b722a3f4)
+
+Kuva 20: Päivitetty pushaus Githubissa.
 
 </details>
 
 <details>
 <summary><strong>Lauantai 30.11.2024 Godotin jatko</strong></summary> 
 ---
-<ins>Klo </ins>
-Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
+<ins>Klo 11:30 - 12:30 </ins>
+
+TheSolarString -käyttäjä ehdottaa ensiksi luoda ja tallenna kaksiuloitteisen **main** -tiedoston ja **Scenes** -hakemiston.
+
+![GOAP-godot-05](https://github.com/user-attachments/assets/961af313-5822-4672-bf8e-12b166f9d49f)
+
+Kuva 21: Main -tiedoston ja Scenes -hakemiston luominen. 
  
+Konfiguroidaan Godot Engine 4.3 -.NET -moottorille Visual Studio Code ulkoisena editorina, 
+muokamalla Editor Settings > Dotnet > External Editor "Disabled" asetuksesta "Visual Studio Code" asetukseen.
+
+Kuva 22: Valitsemme Visual Studio Code:n ulkoiseksi editoriksi Godotille Settings > Dotnet > External Editor -asetuksesta.
+
+Konfiguroidaan Main -tiedosto C#-kieleksi, painamalla Main -tiedoston hiiren oikealla, sitten valitse Language: C# ja lopuksi Create.
+
+![GOAP-godot-07](https://github.com/user-attachments/assets/13a6cfae-7010-4561-9d12-c1820c909c36)
+
+Kuva 23: Muutaa Main -tiedosto C#-kieleksi.
+
+Lopuksi painetaan yllä oikealla olevaan "Build project" ikoniin (vasaran symbooli),
+jolloin Godot rakentaa täysin C# ja .NET -projektin. Tässä voi kestää useita minuutteja.
+
+![GOAP-godot-08](https://github.com/user-attachments/assets/9b0d7c4a-3cdf-43a2-845f-cb3e1d528032)
+
+Kuva 24: "Build project" -käynnistys.
+
+Nyt minulla on yhdistetty Visual Studio Code Godotiin, jolloin Godot pystyy käytämään C#-kieltä.
+TheSolarString -käyttäjä käy opasvideossaan vielä viimeiset konfiguroinnit, jolloin Visual Studio Codessa
+voidaan debuggata Godot-koodia kuten GD.Print"Hello!". Suosittelen tarkistamaan TheSolarStringin opasvideota
+https://www.youtube.com/watch?v=QetDIxDorFI , aikaleimasta 3:30 -5:40 tarkempaa ohjausta. 
+
+Seuratuaan TheSolarStringin opasvideota, minulla on vaaditut json -tiedostot .NET debuggaukseen,
+kuten tasks.json ja launch.json -tiedostot.
+
+![image](https://github.com/user-attachments/assets/e47136e1-da09-4496-bdf2-6c17c80efbb7)
+
+![image](https://github.com/user-attachments/assets/1b846adf-422d-4fbf-8c7f-0eb1ec5f5717)
+
+Kuva 25: tasks.json ja launch.json -tiedostot.
+
+
+
+Ajetuaan projektia Godot Engine 4.3 -.NET -moottorissa (eli "Run Project"), tulee onnistunut tulostusviesti 
+Godotin omaan terminaalin (ts. "Hello"-viestin).
+
+![GOAP_tekoäly_30112024_01](https://github.com/user-attachments/assets/c0dc21a4-9a4c-4d58-bb04-6a99d890eefc)
+
+Kuva 26: Onnistunut "Hello"-viestin tulostus Godotin terminaalissa.
+
+<ins>Klo 14:00 - 20:00 </ins>
+
 </details>
+
+
 
 <details>
 <summary><strong>Sunnuntai 01.12.2024 Godotin loppu</strong></summary> 
@@ -325,7 +379,9 @@ Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 
 * 21.11.2024: 2 tuntia.
 * 22.11.2024: 1 tuntia.
-* 28.11.2024:  tuntia.
+* 29.11.2024: 3 tuntia.
+* 30.11.2024: 1 tuntia.
+* 01.12.2024: tuntia.
 
 Yhteensä:
 

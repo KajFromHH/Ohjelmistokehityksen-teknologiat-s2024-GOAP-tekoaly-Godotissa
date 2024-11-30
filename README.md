@@ -423,7 +423,27 @@ Assets -hakemistoon.
 Kuva 31: Kaikki tarpeelliset kuviot tuottu Assets -hakemistoon. Käytin Drag & Drop -tapa hiirellä
 tiedoston viemiseen.
 
+Sitten tein kentän ruudukoista atlas-kartan, aivan kuten Cyberpotaton opastusvideon ajankohdassa
+5:00 - 5:40.
 
+![image](https://github.com/user-attachments/assets/08263ddc-d7f1-4926-9cab-2dd4347d16d4)
+
+Kuva 32: Kentä ruudukoista tehty atlas-kartan, nimetty tile_atlas.png .
+
+Sitten minun pitää luoda uuden Tilemap Inspector -välilehdessä. Koska käytän
+18 x 18 pikelsin kentäruudukoita, joudun muokamaan erin tavoin kuin Cyberpotaton
+opastusvideossa (hänen kentäruudukot olivat 24 x 24 px).
+
+Muun muassa, Tilemapissa minun pitää asentaa *Tile size* x = 18 px ja y = 18 px, kun taas
+Tilesetissä *Separation* 2 px ja *Texture region* 26 px, sekä x:lle että y:lle.
+
+![image](https://github.com/user-attachments/assets/d0f50c68-5f9a-400b-b785-e70ded429527)
+
+Kuva 33: Tilemapin *Tile size* arvot.
+
+![image](https://github.com/user-attachments/assets/f6f2dc31-5695-4475-b47b-7f1ac2e5e2fb)
+
+Kuva 34: Tilesetin *Separation* ja *Texture region* arvot.
 
 Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua
 kuin GDScripti) Godot-yhteisössä, etsin seuraavasti "Pac-man tutorial with C#" hakuja.

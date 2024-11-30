@@ -397,6 +397,8 @@ Pac-manin kentiä origmaps_2x.png-tiedostossa. Lataan sen ja leikaan palaksi Ms.
 
 Kuva 28: Ms. Pac-Man (3) -kentä
 
+Kuvakäsittelyn avulla, mm. Clip Studio Paint, sain tehtyä 
+
 Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua
 kuin GDScripti) Godot-yhteisössä, etsin seuraavasti "Pac-man tutorial with C#" hakuja.
 

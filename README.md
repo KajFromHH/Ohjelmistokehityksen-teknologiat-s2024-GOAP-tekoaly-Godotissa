@@ -405,7 +405,7 @@ työskennellä kolme itsenäisiä palikkaa, joista tallennan neljä erikulmaisia
 ![image](https://github.com/user-attachments/assets/e79b69c3-9870-425b-8c8d-61a557df99cd) ![image](https://github.com/user-attachments/assets/26c1e9c1-e19a-44b9-b9d3-b6d17570d277) ![image](https://github.com/user-attachments/assets/c16ad833-fbcc-406d-a5d1-28380c5ffa3e) ![image](https://github.com/user-attachments/assets/2777e737-c8f5-4dfa-a3a9-d4c52f67559a)
 
 
-Kuva 29: Yhden palikkan ja niiden käännettyjä kulmakuvia esimerkkejä.
+Kuva 29: Yhden palikkan ja niiden kolme käännettyjä kulmakuvia esimerkkejä.
 
 
 

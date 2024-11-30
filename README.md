@@ -364,7 +364,7 @@ suurin osin yhdistetty toisiaan. Tämä tarkoittaa, että voin koodata C#-skript
 lähetetään ja pyöritetään Godot-moottorissa.
 
 
-<ins>Klo 18:30 - 20:30 </ins>
+<ins>Klo 18:20 - 21:50 </ins>
 
 Nyt pitäisi koodata yksinkertainen sokkelo, jossa on vähintään yksi ei pelattava hahmo.
 Tuli mieleen Pac-man peli, jossa haamut jahtavat keltaista Pac-mania sokkelossa.
@@ -495,7 +495,7 @@ Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 * 21.11.2024: 2 tuntia.
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
-* 30.11.2024: 1 + 2 + tuntia.
+* 30.11.2024: 1 + 3,5 tuntia.
 * 01.12.2024: tuntia.
 
 Yhteensä:

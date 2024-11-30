@@ -312,15 +312,36 @@ Kuva 20: Päivitetty pushaus Githubissa.
 <details>
 <summary><strong>Lauantai 30.11.2024 Godotin jatko</strong></summary> 
 ---
-<ins>Klo 12 </ins>
+<ins>Klo 11:30 -  </ins>
 
-TheSolarString -käyttäjä ehdottaa ensiksi luoda ja tallenna kaksiuloitteisen **main** -tiedoston ja **scenes** -hakemiston.
+TheSolarString -käyttäjä ehdottaa ensiksi luoda ja tallenna kaksiuloitteisen **main** -tiedoston ja **Scenes** -hakemiston.
 
 ![GOAP-godot-05](https://github.com/user-attachments/assets/961af313-5822-4672-bf8e-12b166f9d49f)
 
 Kuva 21: Main -tiedoston ja Scenes -hakemiston luominen. 
  
- Konfiguroidaan Godot Engine 4.3 -.NET Visual Studio Codeiin
+Konfiguroidaan Godot Engine 4.3 -.NET -moottorille Visual Studio Code ulkoisena editorina, 
+muokamalla Editor Settings > Dotnet > External Editor "Disabled" asetuksesta "Visual Studio Code" asetukseen.
+
+Kuva 22: Valitsemme Visual Studio Code:n ulkoiseksi editoriksi Godotille Settings > Dotnet > External Editor -asetuksesta.
+
+Konfiguroidaan Main -tiedosto C#-kieleksi, painamalla Main -tiedoston hiiren oikealla, sitten valitse Language: C# ja lopuksi Create.
+
+![GOAP-godot-07](https://github.com/user-attachments/assets/13a6cfae-7010-4561-9d12-c1820c909c36)
+
+Kuva 23: Muutaa Main -tiedosto C#-kieleksi.
+
+Lopuksi painetaan yllä oikealla olevaan "Build project" ikoniin (vasaran symbooli),
+jolloin Godot rakentaa täysin C# ja .NET -projektin. Tässä voi kestää useita minuutteja.
+
+![GOAP-godot-08](https://github.com/user-attachments/assets/9b0d7c4a-3cdf-43a2-845f-cb3e1d528032)
+
+Kuva 24: "Build project" -käynnistys.
+
+Nyt minulla on yhdistetty Visual Studio Code Godotiin, jolloin Godot pystyy käytämään C#-kieltä.
+TheSolarString -käyttäjä käy opasvideossaan vielä viimeiset konfiguroinnit, jolloin Visual Studio Codessa
+voidaan debuggata Godot-koodia kuten GD.Print"Hello!". Suosittelen tarkistamaan TheSolarStringin opasvideota
+https://www.youtube.com/watch?v=QetDIxDorFI , aikaleimasta 3:30 -5:40 tarkempaa ohjausta. 
  
 </details>
 

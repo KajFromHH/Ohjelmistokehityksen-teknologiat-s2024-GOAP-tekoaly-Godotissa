@@ -159,7 +159,7 @@ Kuva 3 & 4: Godot projektin julkaisu Githubiin.
 <details>
 <summary><strong>Perjantai 29.11.2024 Godotin alku</strong></summary> 
 ---
-<ins>Klo 18-23</ins>
+<ins>Klo 18-21</ins>
 Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 
 
@@ -312,8 +312,15 @@ Kuva 20: Päivitetty pushaus Githubissa.
 <details>
 <summary><strong>Lauantai 30.11.2024 Godotin jatko</strong></summary> 
 ---
-<ins>Klo </ins>
-Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
+<ins>Klo 12 </ins>
+
+TheSolarString -käyttäjä ehdottaa ensiksi luoda ja tallenna kaksiuloitteisen **main** -tiedoston ja **scenes** -hakemiston.
+
+![GOAP-godot-05](https://github.com/user-attachments/assets/961af313-5822-4672-bf8e-12b166f9d49f)
+
+Kuva 21: Main -tiedoston ja Scenes -hakemiston luominen. 
+ 
+ Konfiguroidaan Godot Engine 4.3 -.NET Visual Studio Codeiin
  
 </details>
 
@@ -329,7 +336,9 @@ Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 
 * 21.11.2024: 2 tuntia.
 * 22.11.2024: 1 tuntia.
-* 28.11.2024:  tuntia.
+* 29.11.2024: 3 tuntia.
+* 30.11.2024: tuntia.
+* 01.12.2024: tuntia.
 
 Yhteensä:
 

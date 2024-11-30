@@ -352,8 +352,6 @@ kuten tasks.json ja launch.json -tiedostot.
 
 Kuva 25: tasks.json ja launch.json -tiedostot.
 
-
-
 Ajetuaan projektia Godot Engine 4.3 -.NET -moottorissa (eli "Run Project"), tulee onnistunut tulostusviesti 
 Godotin omaan terminaalin (ts. "Hello"-viestin).
 
@@ -361,7 +359,48 @@ Godotin omaan terminaalin (ts. "Hello"-viestin).
 
 Kuva 26: Onnistunut "Hello"-viestin tulostus Godotin terminaalissa.
 
-<ins>Klo 14:00 - 20:00 </ins>
+Nyt olemme täysin varmoja, että Godot Engine 4.3 -.NET -moottori ja Visual Studio Code -editori ovat
+suurin osin yhdistetty toisiaan. Tämä tarkoittaa, että voin koodata C#-skriptejä Visual Studio Codessa, jotka
+lähetetään ja pyöritetään Godot-moottorissa.
+
+
+<ins>Klo 18:30 - </ins>
+
+Nyt pitäisi koodata yksinkertainen sokkelo, jossa on vähintään yksi ei pelattava hahmo.
+Tuli mieleen Pac-man peli, jossa haamut jahtavat keltaista Pac-mania sokkelossa.
+
+Ensiksi yritin etsiä Pac man esimerkkejä Godot C#-kielellä. Haulla löytyi
+mm. "How to make Pacman in Godot 4 (Complete Tutorial)" -opasvideon Youtubesta, käyttäjältä
+Cyberpotato: https://www.youtube.com/watch?v=CncJvOEM3OA. Hänellä on oma Github repositori
+projektille: https://github.com/wojciech-bilicki/Pacman_Tutorial , käyttäjänimellä wojciech-bilicki.
+
+![image](https://github.com/user-attachments/assets/f9f2ef39-c68a-4534-ab4a-5129ef780ba3)
+
+Kuva 27: Cyberpotato-käyttäjän opasvideo Pac-man peliluontiin.
+
+Tarkistessaan hänen Github repositoria (https://github.com/wojciech-bilicki/Pacman_Tutorial), 
+hän on koodanut peliä GDScriptiä (Godot-mootorin oma kieli) mikä
+ei sovi minulle C#-projektelleni. Siinä suhteessa hänellä kiinnostava artikkeli
+liityen pelin hahmuujen tekoälyn suunnittelussa: https://pacman.fandom.com/wiki/Maze_Ghost_AI_Behaviors .
+
+Siitä huolimatta, Cyberpotaton opasvideossa (https://www.youtube.com/watch?v=CncJvOEM3OA) on hyvä 
+pohja hahmojen ja sokkelotason tuominenja konfigurointi Godotiin.
+
+A) Sokkelon luominen, aikaleima 3:52-
+
+Cyberpotaton Github repositorissa Pacman_tutorial/Assets/Map -hakemistossa löytyy alkuperäiset
+Pac-manin kentiä origmaps_2x.png-tiedostossa. Lataan sen ja leikaan palaksi Ms. Pac-Man(3)
+- ruudukkokentän. Pidän sen värivalinnasta (oranssi-musta) enemmän kuin Cyberpotaton mallikentästä
+(sini-musta).
+
+![image](https://github.com/user-attachments/assets/36fdad92-e404-4f50-913a-5d6968da35f4)
+
+Kuva 28: Ms. Pac-Man (3) -kentä
+
+Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua
+kuin GDScripti) Godot-yhteisössä, etsin seuraavasti "Pac-man tutorial with C#" hakuja.
+
+
 
 </details>
 

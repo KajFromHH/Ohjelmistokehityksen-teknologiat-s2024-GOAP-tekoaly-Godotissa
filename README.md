@@ -364,7 +364,7 @@ suurin osin yhdistetty toisiaan. Tämä tarkoittaa, että voin koodata C#-skript
 lähetetään ja pyöritetään Godot-moottorissa.
 
 
-<ins>Klo 18:30 - </ins>
+<ins>Klo 18:30 - 20:30 </ins>
 
 Nyt pitäisi koodata yksinkertainen sokkelo, jossa on vähintään yksi ei pelattava hahmo.
 Tuli mieleen Pac-man peli, jossa haamut jahtavat keltaista Pac-mania sokkelossa.
@@ -415,6 +415,15 @@ Samalla tein ei-pelattavalle Simon hahmolle, ruoalle ja ansalle omia kuvioita.
 
 Kuva 30: Simon hahmo, ruoka ja ansa -kuviot.
 
+Kaikki kuviot ovat mittasuhteena 18 x 18 pikseliä. Vien kaikki kuviot Godot projektin
+Assets -hakemistoon.
+
+![image](https://github.com/user-attachments/assets/3380d8bf-1909-4a85-bcd1-ddd3536a74c3)
+
+Kuva 31: Kaikki tarpeelliset kuviot tuottu Assets -hakemistoon. Käytin Drag & Drop -tapa hiirellä
+tiedoston viemiseen.
+
+
 
 Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua
 kuin GDScripti) Godot-yhteisössä, etsin seuraavasti "Pac-man tutorial with C#" hakuja.
@@ -438,7 +447,7 @@ Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 * 21.11.2024: 2 tuntia.
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
-* 30.11.2024: 1 tuntia.
+* 30.11.2024: 1 + 2 + tuntia.
 * 01.12.2024: tuntia.
 
 Yhteensä:

@@ -342,7 +342,24 @@ Nyt minulla on yhdistetty Visual Studio Code Godotiin, jolloin Godot pystyy käy
 TheSolarString -käyttäjä käy opasvideossaan vielä viimeiset konfiguroinnit, jolloin Visual Studio Codessa
 voidaan debuggata Godot-koodia kuten GD.Print"Hello!". Suosittelen tarkistamaan TheSolarStringin opasvideota
 https://www.youtube.com/watch?v=QetDIxDorFI , aikaleimasta 3:30 -5:40 tarkempaa ohjausta. 
- 
+
+Seuratuaan TheSolarStringin opasvideota, minulla on vaaditut json -tiedostot .NET debuggaukseen,
+kuten tasks.json ja launch.json -tiedostot.
+
+![image](https://github.com/user-attachments/assets/e47136e1-da09-4496-bdf2-6c17c80efbb7)
+
+![image](https://github.com/user-attachments/assets/1b846adf-422d-4fbf-8c7f-0eb1ec5f5717)
+
+Kuva 25: tasks.json ja launch.json -tiedostot.
+
+
+
+Ajetuaan projektia Godot Engine 4.3 -.NET -moottorissa (eli "Run Project"), tulee onnistunut tulostusviesti 
+Godotin omaan terminaalin (ts. "Hello"-viestin).
+
+![GOAP_tekoäly_30112024_01](https://github.com/user-attachments/assets/c0dc21a4-9a4c-4d58-bb04-6a99d890eefc)
+
+Kuva 26: Onnistunut "Hello"-viestin tulostus Godotin terminaalissa.
 </details>
 
 <details>

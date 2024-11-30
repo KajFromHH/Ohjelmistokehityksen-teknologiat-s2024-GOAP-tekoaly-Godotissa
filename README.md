@@ -312,7 +312,7 @@ Kuva 20: Päivitetty pushaus Githubissa.
 <details>
 <summary><strong>Lauantai 30.11.2024 Godotin jatko</strong></summary> 
 ---
-<ins>Klo 11:30 -  </ins>
+<ins>Klo 11:30 - 12:30 </ins>
 
 TheSolarString -käyttäjä ehdottaa ensiksi luoda ja tallenna kaksiuloitteisen **main** -tiedoston ja **Scenes** -hakemiston.
 
@@ -360,7 +360,12 @@ Godotin omaan terminaalin (ts. "Hello"-viestin).
 ![GOAP_tekoäly_30112024_01](https://github.com/user-attachments/assets/c0dc21a4-9a4c-4d58-bb04-6a99d890eefc)
 
 Kuva 26: Onnistunut "Hello"-viestin tulostus Godotin terminaalissa.
+
+<ins>Klo 14:00 - 20:00 </ins>
+
 </details>
+
+
 
 <details>
 <summary><strong>Sunnuntai 01.12.2024 Godotin loppu</strong></summary> 
@@ -375,7 +380,7 @@ Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 * 21.11.2024: 2 tuntia.
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
-* 30.11.2024: tuntia.
+* 30.11.2024: 1 tuntia.
 * 01.12.2024: tuntia.
 
 Yhteensä:

@@ -445,6 +445,10 @@ Kuva 33: Tilemapin *Tile size* arvot.
 
 Kuva 34: Tilesetin *Separation* ja *Texture region* arvot.
 
+Sitten lisäsin Cyberpotaton ohjeiden mukaisesti 2D-kameran, aikaleima 8:08 - 8:31. Erona on zoomin arvot,
+jossa minun projektissani ovat Zoom x:1.50 ja y:1.50 . Tämä johtuu siitä, että
+minun projektini on huomattavasti pienempi kuin alkuperäinen Pac-man peli.
+
 Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua
 kuin GDScripti) Godot-yhteisössä, etsin seuraavasti "Pac-man tutorial with C#" hakuja.
 

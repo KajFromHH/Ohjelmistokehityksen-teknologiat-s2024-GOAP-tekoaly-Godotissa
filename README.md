@@ -81,7 +81,7 @@ Hän saa lisää yrityksiä, kun kerää ruokia. Peli päätyy kahdella tavalla:
 
 
 ![Konsepti_GOAP_tekoälylle_v2](https://github.com/user-attachments/assets/dfe58c8a-2323-4d74-8fde-8fdb10bee715)
-Kuva 1: Yksinkertainen piirrosluonnos kyseisestä simulaatorista.
+Kuva 3: Yksinkertainen piirrosluonnos kyseisestä simulaatorista.
 
 
 
@@ -386,7 +386,7 @@ liityen pelin hahmuujen tekoälyn suunnittelussa: https://pacman.fandom.com/wiki
 Siitä huolimatta, Cyberpotaton opasvideossa (https://www.youtube.com/watch?v=CncJvOEM3OA) on hyvä 
 pohja hahmojen ja sokkelotason tuominenja konfigurointi Godotiin.
 
-A) Sokkelon luominen, aikaleima 3:52-
+## Sokkelon luominen, aikaleima 3:52-8:47
 
 Cyberpotaton Github repositorissa Pacman_tutorial/Assets/Map -hakemistossa löytyy alkuperäiset
 Pac-manin kentiä origmaps_2x.png-tiedostossa. Lataan sen ja leikaan palaksi Ms. Pac-Man(3)
@@ -446,8 +446,32 @@ Kuva 33: Tilemapin *Tile size* arvot.
 Kuva 34: Tilesetin *Separation* ja *Texture region* arvot.
 
 Sitten lisäsin Cyberpotaton ohjeiden mukaisesti 2D-kameran, aikaleima 8:08 - 8:31. Erona on zoomin arvot,
-jossa minun projektissani ovat Zoom x:1.50 ja y:1.50 . Tämä johtuu siitä, että
-minun projektini on huomattavasti pienempi kuin alkuperäinen Pac-man peli.
+jossa minun projektissani ovat Zoom x:2.85 ja y:2.4 . Tämä johtuu siitä, että
+minun pelikentä on huomattavasti pienempi kuin alkuperäinen Pac-man pelikentä.
+
+![GOAP_tekoäly_30112024_02](https://github.com/user-attachments/assets/03bd6d41-531a-4de8-b60c-118e091407c4)
+
+Kuva 35: Camera2D -kameran zoomin arvot.
+
+Sitten muutan Tilemapissa Inspector-välilehdessä olevaan CanvasItem > Texture -asetukset.
+Muutan Filter -arvot "Inherit" asetuksesta "Nearest" asetukseen.
+"Inherit" -asetus tekee kentästä sumean, epätarkan laatuisen, kun taas "Nearest"
+tekee kentästä skarpin, pikselin tarkkaan laatuisen kentän.
+
+![GOAP_tekoäly_30112024_03](https://github.com/user-attachments/assets/e0c88341-3fc8-49e5-99ad-3423edff5571)
+
+Kuva 36: CanvasItem > Texture arvojen muutos.
+
+Lopuksin yritin luoda kentän Godotissa olevaan Tilemap > Paint työkalua.
+Sain suurin piirtein samankaltaisen kentän kuten alkuperäisessä luonnossa (Katso luvun 1.2, kuva 3).
+
+![GOAP-godot-09](https://github.com/user-attachments/assets/84d92893-1da8-4755-a416-113ce6b3b0de)
+
+Kuva 37: Tilemap > Paint työkalu.
+
+![image](https://github.com/user-attachments/assets/3409dfd0-366e-494c-801a-5dbd93db7d41)
+
+Kuva 38: Loppullinen kentä projektissani.
 
 Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua
 kuin GDScripti) Godot-yhteisössä, etsin seuraavasti "Pac-man tutorial with C#" hakuja.

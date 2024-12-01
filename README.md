@@ -129,9 +129,18 @@ jotta tietty suunnitelijan tavoite voidaan toteuttaa.
 
 ### Luonnos GOAP-malli projektissani.
 
-Luonnostelen esimerkin kuvassa 5, miltä GOAP-malli toteutuu projektissani.
+Luonnostelin esimerkin kuvassa 5, miltä GOAP-malli toteutuu projektissani. Kuvassa on tilanne
+missä Simon-hahmo täytyy etsiä ruokaa [**Ehto**]. Simonilla on erilaisia toimintaa
+toteutakseen tavoiteensa. Tällä hetkellä GOAP-syystemi antoi Simonille suunnitelman,
+missä Simon liikuu siihen asti kun ruokaa on näkyvissä. Simon lähestyy ruokaan niin,
+että hän on ruoan ylläpuolella. Kun Simon poimii ruoan, kasvaa hänen ruokavarastonsa yhdellä.
+Jos Simonilla on neljä ruokaa, on hän tavoiteensa toteuttanut.
 
-Kuva 5:
+![image](https://github.com/user-attachments/assets/187f6346-429b-473c-bccf-744f4867075a) ![image](https://github.com/user-attachments/assets/9692d72a-6436-4bcb-bb73-487ac42d62bc)
+
+
+
+Kuva 5: Simon suunnitelma tavoitteensa toteutukseen, mm. löytää neljää ruokaa.
 
 
 

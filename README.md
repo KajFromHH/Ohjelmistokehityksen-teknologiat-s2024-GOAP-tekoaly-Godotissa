@@ -598,6 +598,9 @@ jotta tietty tavoite voidaan toteuttaa.
 
 Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 
+![image](https://github.com/user-attachments/assets/187f6346-429b-473c-bccf-744f4867075a) ![image](https://github.com/user-attachments/assets/fdeaf308-b817-438c-9eb5-8cb86552e409)
+
+
 Kuva 40:
 
 <ins>Klo 16:55 - 17:45 </ins>

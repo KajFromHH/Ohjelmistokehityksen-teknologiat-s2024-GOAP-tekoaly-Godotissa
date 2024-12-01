@@ -550,7 +550,7 @@ mikä on erillainen pelimoottori kuin Godot. Toisaltaan minun pitää aloittaa j
 <details>
 <summary><strong>Sunnuntai 01.12.2024 Godotin loppu</strong></summary> 
 ---
-<ins>Klo 13:30 - 15:00 </ins>
+<ins>Klo 13:30 - 15:40 </ins>
 
 Aloin kirjoittamaan raporttia, mm. 2 Teoriaa ja 3. Työkaluja.
 
@@ -589,7 +589,7 @@ jotta tietty tavoite voidaan toteuttaa.
 
 Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 
-
+Kuva 40:
  
 </details>
 
@@ -599,7 +599,7 @@ Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
 * 30.11.2024: 1 + 3,5 tuntia.
-* 01.12.2024: 1,5 + tuntia.
+* 01.12.2024: 2 +  tuntia.
 
 Yhteensä:
 

@@ -591,7 +591,7 @@ suunnitelijan (peli-hahmot) yhteen.
 * Jokaisella toiminnalla pitää olla sekä *ehdot ja seuraukset* (**preconditions** ja **effects**), ja
 niiden liityvät kustannukset.
 
-* Tavoitteet
+* Tavoitteet eivät ole alkutilanteet, vaan _lopputilanteet_.
 
 * Suunnitelma (**Plan**) perustuu yhdistävä tekijä, joka yhdistää GOAP-edustajan, toiminnat, ehdot ja seuraukset yhteen
 jotta tietty tavoite voidaan toteuttaa. 
@@ -626,9 +626,18 @@ hahmon Godotiin, https://www.youtube.com/watch?v=1EkJUdfnVzk.
 
 Kuva 43: Rapid Vectors opastusvideo.
 
-<ins>Klo 19:45 - </ins>
+<ins>Klo 19:45 - 20:20 </ins>
 
-Seminaarityön nauhoitus.
+Seminaarityön testinauhoitus. Vielä yritää lisätä C#-skripti ennen deadlinea.
+
+<ins>Klo 20:20 - 20:50</ins>
+
+Skriptausta ja kommenointia.
+
+<ins>Klo 21:00 - 22:00</ins>
+
+Markdown-rapportin digitaalinen tiedoston ja sen alkuperäisen linkki Githubiin
+palautus. Lisäksi lisäsin linkki Github-repositoriin ja esitysvideon-hakemistoon.
  
 </details>
 
@@ -638,7 +647,7 @@ Seminaarityön nauhoitus.
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
 * 30.11.2024: 1 + 3,5 tuntia.
-* 01.12.2024: 2 + 1 + tuntia.
+* 01.12.2024: 2 + 1 + 1 + 0,5 + tuntia.
 
 Yhteensä:
 

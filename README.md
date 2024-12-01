@@ -8,6 +8,15 @@ Haaga-Helia ammattikorkeakoulu
 
 2024
 
+## Päivistys 01.12.2024.
+Haluaisin huomioida, että tämä digitaalinen seminaarirapportin tiedosto on edelleen keskeneräinen,
+jotta ehtisin palautaa määräaaikaisesti Teamsiin. 
+
+Lisäksi tässä rapporttissa on paljon kuvia, joita on julkaistettu suoraan Githubiin. Tästä syystä
+tässä digitaalisessa rapportissa kuvat eivät näy oikein.
+
+Suosittelen suuresti lukemaan Github sivustoltani: 
+
 ## Sisältöluettelo
 
 1. Johdanto

@@ -1,11 +1,11 @@
 # Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
 
 Kaj Peter Jansson
----
+
 Tradenomi tietojenkäsittely
----
+
 Haaga-Helia ammattikorkeakoulu
----
+
 2024
 
 ## Sisältöluettelo

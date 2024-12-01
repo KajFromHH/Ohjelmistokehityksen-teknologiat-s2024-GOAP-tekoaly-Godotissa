@@ -601,11 +601,21 @@ Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 ![image](https://github.com/user-attachments/assets/187f6346-429b-473c-bccf-744f4867075a) ![image](https://github.com/user-attachments/assets/fdeaf308-b817-438c-9eb5-8cb86552e409)
 
 
-Kuva 40:
+Kuva 40: Yksinkertainen Simon suunnitelma GOAP-mallin avulla, mm. etsiessään ruokaa.
 
 <ins>Klo 16:55 - 17:45 </ins>
 
+Tarvitsen lisätä ns. collision-funktion kentälle. Tällöin tavoin Simon ei pysty liikumaan
+minne vaan ja missä tahansa kentässä. Toisin sanoen, collision-funktio on suljettu, ei-läpikulkeva muuri
+peli-hahmoille. Löysin yksinkertaisen opastusvideo käyttäjältä Chris' Tutorials, https://www.youtube.com/watch?v=1Uk1yhGtnOo.
 
+![image](https://github.com/user-attachments/assets/b519cfda-9a16-4f20-befc-848f8b9ed9d4)
+
+Kuva 41: Chris' Tutorials -käyttäjän opastusvideo.
+
+![image](https://github.com/user-attachments/assets/d443e62a-9235-4fa2-9c3c-2043960eb993)
+
+Kuva 42: Kentän muurit ("collisions") lisätty. Niitä huomaa sinisävyllä kentän ruudukkoissa.
  
 </details>
 
@@ -615,7 +625,7 @@ Kuva 40:
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
 * 30.11.2024: 1 + 3,5 tuntia.
-* 01.12.2024: 2 +  tuntia.
+* 01.12.2024: 2 + 1 + tuntia.
 
 Yhteensä:
 
@@ -623,6 +633,7 @@ Yhteensä:
 
 
 * Bilicki, W. 2023. Pacman_tutorial. Koodiprojekti. Github. Ladattavissa: https://github.com/wojciech-bilicki/Pacman_Tutorial. Ladattu: 01.12.2024.
+* Chris' Tutorials 29.06.2022. How to Add Tilemap Collisions in Godot 4. Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=1Uk1yhGtnOo. Katsottu: 01.12.2024.
 * Cyberpotato 24.7.2023. How to make Pacman in Godot 4 (Complete Tutorial). Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=CncJvOEM3OA. Katsottu: 01.12.2024.
 * git-amend 7.4.2024. Better AI in Unity - GOAP (Goal Oriented Action Planning). Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=T_sBYgP7_2k. Katsottu: 01.12.2024.
 * Holistic3D 6.8.2022. GOAP. Videojen soittolista. Youtube. Katsottavissa: https://www.youtube.com/watch?v=tdBWk2OVCWc&list=PLi-ukGVOag_1DCBZG1rRg_SpiyI6I5Qcr. Katsottu: 01.12.2024.

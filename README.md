@@ -1,4 +1,7 @@
-# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
+# Ohjelmistokehityksen teknologiat seminaariraportti, syksy 2024 
+
+GOAP tekoäly Godotissa
+---
 
 Kaj Peter Jansson
 
@@ -13,9 +16,10 @@ Haluaisin huomioida, että tämä kokonainen digitaalinen seminaarirapportin tie
 jotta ehtisin palautaa sen määräaaikaisesti Teamsiin. 
 
 Lisäksi tässä rapporttissa on paljon kuvia, joita on julkaistettu suoraan Githubiin. Tästä syystä
-tässä digitaalisessa rapportissa kuvat eivät näy oikein.
+tässä digitaalisessa rapportissa kuvat eivät näy oikein (ne vaativat Github-ympäristöä).
 
-Suosittelen suuresti lukemaan Github sivustoltani: 
+Suosittelen suuresti lukemaan raportiani Github sivustoltani: https://github.com/KajFromHH/Ohjelmistokehityksen-teknologiat-s2024-GOAP-tekoaly-Godotissa/blob/main/README.md .
+Huomioi, että seminaariraporttini on Githubissa nimellään README.md.
 
 ## Sisältöluettelo
 

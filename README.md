@@ -129,9 +129,9 @@ jotta tietty suunnitelijan tavoite voidaan toteuttaa.
 
 ### Luonnos GOAP-malli projektissani.
 
-Luonnostelen esimerkin kuvassa #, miltä GOAP-malli toteutuu projektissani.
+Luonnostelen esimerkin kuvassa 5, miltä GOAP-malli toteutuu projektissani.
 
-Kuva #
+Kuva 5:
 
 
 

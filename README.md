@@ -663,9 +663,9 @@ palautus. Lisäksi lisäsin linkki Github-repositoriin ja esitysvideon-hakemisto
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
 * 30.11.2024: 1 + 3,5 tuntia.
-* 01.12.2024: 2 + 1 + 1 + 0,5 + tuntia.
+* 01.12.2024: 2 + 1 + 1 + 0,5 tuntia.
 
-Yhteensä:
+Yhteensä: 15 tuntia.
 
 ## 7. Lähteet
 

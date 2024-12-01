@@ -1,9 +1,10 @@
-[gd_scene load_steps=3 format=3 uid="uid://cnyp0gi1pbdvt"]
+[gd_scene load_steps=4 format=3 uid="uid://cnyp0gi1pbdvt"]
 
 [ext_resource type="Texture2D" uid="uid://u2a22x8fyyie" path="res://Assets/Simon/Simon.png" id="1_xcrjw"]
+[ext_resource type="Script" path="res://Scenes/Beliefs.cs" id="2_6wkm8"]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_m72c6"]
-radius = 11.0
+radius = 9.0
 
 [node name="Simon" type="CharacterBody2D"]
 
@@ -13,3 +14,6 @@ texture = ExtResource("1_xcrjw")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("CircleShape2D_m72c6")
+
+[node name="GOAP" type="Node" parent="."]
+script = ExtResource("2_6wkm8")

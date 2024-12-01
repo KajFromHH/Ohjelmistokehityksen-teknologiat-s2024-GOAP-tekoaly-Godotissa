@@ -616,6 +616,15 @@ Kuva 41: Chris' Tutorials -käyttäjän opastusvideo.
 ![image](https://github.com/user-attachments/assets/d443e62a-9235-4fa2-9c3c-2043960eb993)
 
 Kuva 42: Kentän muurit ("collisions") lisätty. Niitä huomaa sinisävyllä kentän ruudukkoissa.
+
+<ins>Klo 17:45 - 18:10</ins>
+
+Nyt pitäisi lisätä Simon-hahmon kentälle. Löysin opastusvideon Rapid Vectors-käyttäjältä liityen ei-pelattavan
+hahmon Godotiin, https://www.youtube.com/watch?v=1EkJUdfnVzk.
+
+![image](https://github.com/user-attachments/assets/90d8beb4-fac4-461f-9702-b378f48494e8)
+
+Kuva 43: Rapid Vectors opastusvideo.
  
 </details>
 
@@ -640,5 +649,8 @@ Yhteensä:
 * Linietsky, J., Manzur, A. & the Godot community s.a. C# Basics. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_basics.html. Luettu: 01.12.2024.
 * Linietsky, J., Manzur, A. & the Godot community s.a. Your first 2D game. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html. Luettu: 01.12.2024.
 * Margerrat 19.1.2024. Godot Engine: C# Support? Steam-foruumikeskustelu. Luettavissa: https://steamcommunity.com/app/404790/discussions/0/4133808627038364598/. Luettu: 01.12.2024. 
+* Rapid Vectors 14.11.2024. Chicken NPC Animations, State Machine wtih Naviagation and Avoidance - Godot 4.3 Tutorial - Pt 10.
+Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=1EkJUdfnVzk. Katsottu: 01.12.2024.
+
 * TheSolarString 12.11.2024. Setup Godot 4.3 C# In Windows With Visual Studio Code .NET8 in 7 minutes | 2024 | 2025 | Debug. Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=QetDIxDorFI. Katsottu: 01.12.2024.
 * Thompson, T. 5.5.2023. History of AI in Games - Video Game - F.E.A.R. modl.ai. Luettavissa: https://modl.ai/fear/. Luettu: 01.12.2024.

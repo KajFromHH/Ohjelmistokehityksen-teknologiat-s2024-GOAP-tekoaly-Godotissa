@@ -1,6 +1,6 @@
 # Ohjelmistokehityksen teknologiat seminaariraportti, syksy 2024 
 
-GOAP tekoäly Godotissa
+GOAP-tekoäly Godotissa
 ---
 
 Kaj Peter Jansson

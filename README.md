@@ -232,8 +232,9 @@ jos haluaa debuggata Godot C# -projekteja Visual Studio Codessa. Viimeisin päiv
 
 Kuva 10: C# Tools for Godot -lisäys Visual Studio Codessa.
 
-Muita opasteita Godot Engine 4.3-version C#-kielen konfigurointiin löytyy Youtubesta käyttäjältä The SolarString.
-Hänen videonsa julkaistiin 12 Marraskuuta 2024, joten hänen opastaa nimeomaan nykyisessä Godot Engine 4.3-versiossa.
+Muita opasteita Godot Engine 4.3-version C#-kielen konfigurointiin löytyy Youtubesta käyttäjältä TheSolarString, 
+https://www.youtube.com/watch?v=QetDIxDorFI. Hänen videonsa julkaistiin 12 Marraskuuta 2024, 
+joten hänen opastaa nimeomaan nykyisessä Godot Engine 4.3-versiossa.
 
 ![image](https://github.com/user-attachments/assets/23d05586-6cc7-4d64-9f12-3b8fdb695bd3)
 
@@ -392,19 +393,18 @@ Tuli mieleen Pac-man peli, jossa haamut jahtavat keltaista Pac-mania sokkelossa.
 
 Ensiksi yritin etsiä Pac man esimerkkejä Godot C#-kielellä. Haulla löytyi
 mm. "How to make Pacman in Godot 4 (Complete Tutorial)" -opasvideon Youtubesta, käyttäjältä
-Cyberpotato: https://www.youtube.com/watch?v=CncJvOEM3OA. Hänellä on oma Github repositori
-projektille: https://github.com/wojciech-bilicki/Pacman_Tutorial , käyttäjänimellä wojciech-bilicki.
+Cyberpotato: https://www.youtube.com/watch?v=CncJvOEM3OA. Hänellä on myös oma Github repositori
+projektille: https://github.com/wojciech-bilicki/Pacman_Tutorial.
 
 ![image](https://github.com/user-attachments/assets/f9f2ef39-c68a-4534-ab4a-5129ef780ba3)
 
 Kuva 27: Cyberpotato-käyttäjän opasvideo Pac-man peliluontiin.
 
-Tarkistessaan hänen Github repositoria (https://github.com/wojciech-bilicki/Pacman_Tutorial), 
-hän on koodanut peliä GDScriptiä (Godot-mootorin oma kieli) mikä
+Tarkistessaan hänen Github repositoria, hän on koodanut peliä GDScriptiä (Godot-mootorin oma kieli) mikä
 ei sovi minulle C#-projektelleni. Siinä suhteessa hänellä kiinnostava artikkeli
 liityen pelin hahmuujen tekoälyn suunnittelussa: https://pacman.fandom.com/wiki/Maze_Ghost_AI_Behaviors .
 
-Siitä huolimatta, Cyberpotaton opasvideossa (https://www.youtube.com/watch?v=CncJvOEM3OA) on hyvä 
+Siitä huolimatta, Cyberpotaton opasvideossa on hyvä 
 pohja hahmojen ja sokkelotason tuominenja konfigurointi Godotiin.
 
 ## Sokkelon luominen, aikaleima 3:52-8:47
@@ -554,12 +554,13 @@ Yhteensä:
 
 ## 7. Lähteet
 
-https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_basics.html
 
-* Cyberpotato
-* Holistic3D 6.8.2022. GOAP. Videojen soittolista. Katsottavissa: https://www.youtube.com/watch?v=tdBWk2OVCWc&list=PLi-ukGVOag_1DCBZG1rRg_SpiyI6I5Qcr. Katsottu: 01.12.2024.
+* Bilicki, W. 2023. Pacman_tutorial. Koodiprojekti. Github. Ladattavissa: https://github.com/wojciech-bilicki/Pacman_Tutorial. Ladattu: 01.12.2024.
+* Cyberpotato 24.7.2023. How to make Pacman in Godot 4 (Complete Tutorial). Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=CncJvOEM3OA. Katsottu: 01.12.2024.
+* git-amend 7.4.2024. Better AI in Unity - GOAP (Goal Oriented Action Planning). Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=T_sBYgP7_2k. Katsottu: 01.12.2024.
+* Holistic3D 6.8.2022. GOAP. Videojen soittolista. Youtube. Katsottavissa: https://www.youtube.com/watch?v=tdBWk2OVCWc&list=PLi-ukGVOag_1DCBZG1rRg_SpiyI6I5Qcr. Katsottu: 01.12.2024.
 * Linietsky, J., Manzur, A. & the Godot community s.a. C# Basics. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_basics.html. Luettu: 01.12.2024.
 * Linietsky, J., Manzur, A. & the Godot community s.a. Your first 2D game. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html. Luettu: 01.12.2024.
 * Margerrat 19.1.2024. Godot Engine: C# Support? Steam-foruumikeskustelu. Luettavissa: https://steamcommunity.com/app/404790/discussions/0/4133808627038364598/. Luettu: 01.12.2024. 
-* TheSolarString
+* TheSolarString 12.11.2024. Setup Godot 4.3 C# In Windows With Visual Studio Code .NET8 in 7 minutes | 2024 | 2025 | Debug. Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=QetDIxDorFI. Katsottu: 01.12.2024.
 

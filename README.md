@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2175cbf2-bd1e-4b36-b719-c0e55b24ca13)# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
+# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
 
 Kaj Peter Jansson
 Tradenomi tietojenkäsittely
@@ -84,31 +84,51 @@ Hän saa lisää yrityksiä, kun kerää ruokia. Peli päätyy kahdella tavalla:
 Kuva 3: Yksinkertainen piirrosluonnos kyseisestä simulaatorista.
 
 
-
-### 1.2 Sisältö ja lopputulos
-
-
 ### 1.4 Käsitteet
 
-GOAP -
+### 2. Teoriaa
 
-Godot -
+### GOAP (Goal Oriented Action Planning) -tekoäly peleissä.
 
-Minimum Viable Product (MVP)
-
-Non Playable Character (NPC) - 
-
-
-
-2.
+Holistic3D ja git-amend
 
 ## 3. Työkalut
 
 ### Godot-pelimoottori ja C#-kieli
 
+Käytin tässä projektissa Godot Engine 4.3 -.NET -version pelimoottoria. Se oli yhdistetty Visual Studio Code -editoriin,
+jotta pystyn koodamaan ja debuggamaan C#-skriptejä. Tähän varten tarvitsin myös uusimman .NET -version, eli 8.08.404.
 
+Minun piti alun perin suorittaa projektin Godot Engine 4.3 Steam -versiossa Steamin alustassa. Huomasin valettavasti 
+myöhään, ettei Godot Engine 4.3 Steam -versio tue C#-kieltä ollenkaan. Tämän takian jouduin siirtymään Godot Engine 4.3 -.NET -versioon.
+Voitte lukea tarkemmin kyseistä prosessia luvussa 6. Appenix A > Perjantai 29.12.2024.
 
-## 5. Appenix A: Työpäiväkirja.
+![image](https://github.com/user-attachments/assets/1c76ede9-9431-4b60-8207-c1064ff9f9da)
+
+Kuva #: Godot-pelimootorin virallinen julkaisusivusto.
+
+## 4. Toteutus
+
+### Simulaatorin kenttä ja hahmot
+
+Luoin simulaatorin kentän Godotin Tilemap -työkalun avulla. Tein kuvalliset tuotokset, ts. ikoonit, kuvakäsittelyohjelmassa
+kuten Clip Studio Paint. Tarkkaat välivaiheet ovat selitetty luvussa 6. Appendix A > Lauantai 30.12.2024.
+
+![image](https://github.com/user-attachments/assets/3409dfd0-366e-494c-801a-5dbd93db7d41)
+
+Kuva #: Simulaatorin pelikentä.
+
+![image](https://github.com/user-attachments/assets/68a49849-5267-47cc-a0d2-dd940e2f5f8d)
+ ![image](https://github.com/user-attachments/assets/2f0c0b17-b111-41dd-827c-6fa789e6f480)
+ ![image](https://github.com/user-attachments/assets/4c2cad7b-e647-49ca-81ff-3a792e621fcc)
+
+Kuva #: Simulaatorin hahmon ja tavaroiden -ikoonit, ts. Simon-hahmo, ruoka ja ansa.
+
+## 5. Tulos ja tulkinnat
+
+Sad...
+
+## 6. Appenix A: Työpäiväkirja.
 
 <details><summary><strong>Torstai 21.11.2024 Projektin käynnistys ja README.md kirjoitaminen</strong></summary>
   
@@ -127,7 +147,7 @@ Non Playable Character (NPC) -
   
 ---
 
-<ins>Klo 11 - 12; </ins>
+<ins>Klo 11 - 12</ins>
 
 1. Luoin uuden projektin Godotissa.
 
@@ -488,6 +508,8 @@ mikä on erillainen pelimoottori kuin Godot. Toisaltaan minun pitää aloittaa j
 ---
 <ins>Klo 13:30 - 15:00 </ins>
 
+Aloin kirjoittamaan raporttia, mm. 2 Teoriaa ja 3. Työkaluja.
+
 Löysin opasvideo nimeltään "Better AI in Unity - GOAP (Goal Oriented Action Planning)"
 git-amend -käyttäjältä, https://www.youtube.com/watch?v=T_sBYgP7_2k.
 
@@ -516,6 +538,7 @@ seuravat aiheet:
 
 Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 
+
  
 </details>
 
@@ -529,8 +552,14 @@ Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 
 Yhteensä:
 
-## Lähteet
+## 7. Lähteet
 
+https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_basics.html
 
-Linietsky, J., Manzur, A. & the Godot community s.a. Your first 2D game. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html. Luettu: 01.12.2024.
-Holistic3D 6.8.2022. GOAP. Videojen soittolista. Katsottavissa: https://www.youtube.com/watch?v=tdBWk2OVCWc&list=PLi-ukGVOag_1DCBZG1rRg_SpiyI6I5Qcr. Katsottu: 01.12.2024.
+* Cyberpotato
+* Holistic3D 6.8.2022. GOAP. Videojen soittolista. Katsottavissa: https://www.youtube.com/watch?v=tdBWk2OVCWc&list=PLi-ukGVOag_1DCBZG1rRg_SpiyI6I5Qcr. Katsottu: 01.12.2024.
+* Linietsky, J., Manzur, A. & the Godot community s.a. C# Basics. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/tutorials/scripting/c_sharp/c_sharp_basics.html. Luettu: 01.12.2024.
+* Linietsky, J., Manzur, A. & the Godot community s.a. Your first 2D game. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html. Luettu: 01.12.2024.
+* Margerrat 19.1.2024. Godot Engine: C# Support? Steam-foruumikeskustelu. Luettavissa: https://steamcommunity.com/app/404790/discussions/0/4133808627038364598/. Luettu: 01.12.2024. 
+* TheSolarString
+

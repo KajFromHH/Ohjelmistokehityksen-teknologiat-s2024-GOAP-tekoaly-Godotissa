@@ -625,6 +625,10 @@ hahmon Godotiin, https://www.youtube.com/watch?v=1EkJUdfnVzk.
 ![image](https://github.com/user-attachments/assets/90d8beb4-fac4-461f-9702-b378f48494e8)
 
 Kuva 43: Rapid Vectors opastusvideo.
+
+<ins>Klo 19:45 - </ins>
+
+Seminaarityön nauhoitus.
  
 </details>
 

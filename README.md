@@ -1,4 +1,4 @@
-# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
+![image](https://github.com/user-attachments/assets/2175cbf2-bd1e-4b36-b719-c0e55b24ca13)# Ohjelmistokehityksen teknologiat syksy 2024: GOAP tekoäly Godotissa
 
 Kaj Peter Jansson
 Tradenomi tietojenkäsittely
@@ -104,9 +104,10 @@ Non Playable Character (NPC) -
 
 ## 3. Työkalut
 
-### Godot-pelimoottori
+### Godot-pelimoottori ja C#-kieli
 
-#### Python vai C# tekoälylle?
+
+
 ## 5. Appenix A: Työpäiväkirja.
 
 <details><summary><strong>Torstai 21.11.2024 Projektin käynnistys ja README.md kirjoitaminen</strong></summary>
@@ -474,19 +475,47 @@ Kuva 37: Tilemap > Paint työkalu.
 Kuva 38: Loppullinen kentä projektissani.
 
 Koska Godot C#-projektien työskentely on vielä "epätavallista" (tai vähemmän suosittua
-kuin GDScripti) Godot-yhteisössä, etsin seuraavasti "Pac-man tutorial with C#" hakuja.
-
-
+kuin GDScripti) Godot-yhteisössä, minun pitää etsiä muita hakuja vaikka ne eivät
+ihan päde omaan Godot projektelleni. 
+Esimerkiksi, "Goap game ai in C#" -haulla saan valettavasti tuloksia Unitylle,
+mikä on erillainen pelimoottori kuin Godot. Toisaltaan minun pitää aloittaa jostain.
 
 </details>
-
 
 
 <details>
 <summary><strong>Sunnuntai 01.12.2024 Godotin loppu</strong></summary> 
 ---
-<ins>Klo </ins>
-Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen. 
+<ins>Klo 13:30 - 15:00 </ins>
+
+Löysin opasvideo nimeltään "Better AI in Unity - GOAP (Goal Oriented Action Planning)"
+git-amend -käyttäjältä, https://www.youtube.com/watch?v=T_sBYgP7_2k.
+
+![image](https://github.com/user-attachments/assets/99b3b664-ce1c-48bd-8e14-f398d755fc31)
+
+Kuva 38: "Better AI in Unity - Goap (Goal Oriented Action Planning)" -opasvideo git-amend -käyttäjältä.
+
+Lisäksi löysin mittavan "GOAP"-soittolistan Holistic3D -käyttäjältä, https://www.youtube.com/watch?v=tdBWk2OVCWc&list=PLi-ukGVOag_1DCBZG1rRg_SpiyI6I5Qcr.
+
+![image](https://github.com/user-attachments/assets/cbd00ec8-a4ad-4391-af26-50f9401bd794)
+
+Kuva 39: "GOAP"-soittolistan Holistic3D -käyttäjältä.
+
+## A. Suunnitele hahmosi GOAP-rakennetta
+
+Sekä git-amend ja Holistic3D -käyttäjät tekivät ensiksi luonnoksen GOAP-tekoälystä,
+jossa selkentyy pelihahmojen **actions**, **goals** ja **beliefs**. Eli suomenettuna,
+minun pitää tarkentaa minun Simon-hahmon *toiminnat, tavoitteet ja uskomukset*. Lisäksi selventyy
+seuravat aiheet:
+
+* GOAP-edustaja (**GOAP agent**) 
+
+* Jokaisella toiminnalla pitää olla sekä *ehdot ja seuraukset* (**preconditions** ja **effects**).
+
+* Tavoitteet
+
+Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
+
  
 </details>
 
@@ -501,3 +530,7 @@ Tarvitsen opastusta yksinkertaisen sokkelon tekemiseen.
 Yhteensä:
 
 ## Lähteet
+
+
+Linietsky, J., Manzur, A. & the Godot community s.a. Your first 2D game. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html. Luettu: 01.12.2024.
+Holistic3D 6.8.2022. GOAP. Videojen soittolista. Katsottavissa: https://www.youtube.com/watch?v=tdBWk2OVCWc&list=PLi-ukGVOag_1DCBZG1rRg_SpiyI6I5Qcr. Katsottu: 01.12.2024.

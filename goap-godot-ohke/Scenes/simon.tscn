@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://cnyp0gi1pbdvt"]
+
+[ext_resource type="Texture2D" uid="uid://u2a22x8fyyie" path="res://Assets/Simon/Simon.png" id="1_xcrjw"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_m72c6"]
+radius = 11.0
+
+[node name="Simon" type="CharacterBody2D"]
+
+[node name="Simon" type="Sprite2D" parent="."]
+texture_filter = 1
+texture = ExtResource("1_xcrjw")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_m72c6")

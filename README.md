@@ -84,13 +84,57 @@ Hän saa lisää yrityksiä, kun kerää ruokia. Peli päätyy kahdella tavalla:
 Kuva 3: Yksinkertainen piirrosluonnos kyseisestä simulaatorista.
 
 
-### 1.4 Käsitteet
-
 ### 2. Teoriaa
 
 ### GOAP (Goal Oriented Action Planning) -tekoäly peleissä.
 
-Holistic3D ja git-amend
+Youtube-käyttäjä git-amend mukaan, Jeff Orin kehitti GOAP (Goal Oriented Action Planning)-mallin MIT:issä (Massachusetts Institute of Technology) 2000-luvun alussa. Suomeksi malli on ns. tavoiteorientaation toimintasuunnitelu. GOAP-mallin kehityksessä otettiin huomioon
+erityisesti joustavuuden ja monimutkaisuuden oikea maailman päätöksentekoja, git-amend mukaan. Yksi onnistumista GOAP-mallin toteuksista oli
+F.E.A.R.-videopeli vuodelta 2005.
+
+Huomattavin erovaisuus GOAP-mallissa verratuna muihin pelin tekoälyihin kuten äärillinen automaatti (definite state machines) on se,
+että toiminnat ja tavoitteet eivät ole jäykästi yhdistetty toisiaan. Sen sijaan, ne ovat irrallisia toisiaan, git-amend mukaan. 
+
+Tämä tarkoittaa, että peli-hahmot pystyvät analysoida heidän ympäristöä ja suunnitella parhaan mukaisen
+ratkaisujen riippuen käyttössä olevia toiminnat ja tavoitteet. Tämä antaa edustajalle monta erillaisia toimintastrategiaa, joissa jokaisella
+on omat ehdot, seuraukset ja liityvät kustannukset, git-amend mukaan.
+
+![pasted-image-0-25](https://github.com/user-attachments/assets/9ac49a91-53ea-4e77-9b72-bed6cebc6f2a)
+
+Kuva 4: Tapahtumakuva F.E.A.R. -pelistä. Kuva on ottanut Tommy Thompson modl.ai -sivustolta.
+
+### GOAP-mallin käsitteet.
+
+Youtube-käyttäjät git-amend ja Holistic3D mukaan, GOAP-mallin kuuluvat vähintään seuraavat olennaiset käsitteet:
+
+* **actions**, **goals** ja **beliefs**. eli suomeksi *toiminnat, tavoitteet ja uskomukset*.
+
+* Jokaisella toiminnalla pitää olla sekä *ehdot ja seuraukset* (**preconditions** ja **effects**), ja
+niiden *liityvät kustannukset* (**associated costs**).
+
+* Sensorit (**Sensors**) ovat ns. muuttajat, jotka kertovat tarkoin nykyhetkisestä ympäristöstä.
+
+* Suunnitelija (**Planner**) on tekijä, jotka tekee parhaan päätöksentekonsa riippuen hänen käytössä olevia
+toiminnat ja tavoitteet + uskomukset joita hän haluaa suorittaa. Toisin sanoen, suunnitelija on peli-hahmo,
+esim. Simon-hahmo projektissani.   
+
+* GOAP-edustaja (**GOAP agent**) on ns. liima joka yhdistää toiminnat, tavoitteet, uskomukset, sensorit, ja
+suunnitelijan yhteen. GOAP-edustaja aktivoituu, kun yksi tavoite on lisätty edustajaan.
+
+* Tavoite on loppullinen tila GOAP-edustajasta, ei alkutila Holistic3D mukaan. Minun projektissani tämä voi olla
+Goal: all_food_found = true. 
+
+* Suunnitelma (**Plan**) perustuu yhdistävä tekijä, joka yhdistää GOAP-edustajan, toiminnat, ehdot ja seuraukset yhteen
+jotta tietty suunnitelijan tavoite voidaan toteuttaa.
+
+### Luonnos GOAP-malli projektissani.
+
+Luonnostelen esimerkin kuvassa #, miltä GOAP-malli toteutuu projektissani.
+
+Kuva #
+
+
+
 
 ## 3. Työkalut
 
@@ -530,11 +574,18 @@ jossa selkentyy pelihahmojen **actions**, **goals** ja **beliefs**. Eli suomenet
 minun pitää tarkentaa minun Simon-hahmon *toiminnat, tavoitteet ja uskomukset*. Lisäksi selventyy
 seuravat aiheet:
 
-* GOAP-edustaja (**GOAP agent**) 
+* GOAP-edustaja (**GOAP agent**) on ns. liima joka yhdistää toiminnat, tavoitteet, uskomukset, sensorit, ja
+suunnitelijan (peli-hahmot) yhteen.
 
-* Jokaisella toiminnalla pitää olla sekä *ehdot ja seuraukset* (**preconditions** ja **effects**).
+* Sensorit ovat ns. muuttajat, jotka kertovat tarkoin nykyhetkisestä ympäristöstä. 
+ 
+* Jokaisella toiminnalla pitää olla sekä *ehdot ja seuraukset* (**preconditions** ja **effects**), ja
+niiden liityvät kustannukset.
 
 * Tavoitteet
+
+* Suunnitelma (**Plan**) perustuu yhdistävä tekijä, joka yhdistää GOAP-edustajan, toiminnat, ehdot ja seuraukset yhteen
+jotta tietty tavoite voidaan toteuttaa. 
 
 Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 
@@ -548,7 +599,7 @@ Luonnostelin kuvassa 40 Simon-hahmon GOAP-rakennetta.
 * 22.11.2024: 1 tuntia.
 * 29.11.2024: 3 tuntia.
 * 30.11.2024: 1 + 3,5 tuntia.
-* 01.12.2024: tuntia.
+* 01.12.2024: 1,5 + tuntia.
 
 Yhteensä:
 
@@ -563,4 +614,4 @@ Yhteensä:
 * Linietsky, J., Manzur, A. & the Godot community s.a. Your first 2D game. Dokumentaatio. Luettavissa: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html. Luettu: 01.12.2024.
 * Margerrat 19.1.2024. Godot Engine: C# Support? Steam-foruumikeskustelu. Luettavissa: https://steamcommunity.com/app/404790/discussions/0/4133808627038364598/. Luettu: 01.12.2024. 
 * TheSolarString 12.11.2024. Setup Godot 4.3 C# In Windows With Visual Studio Code .NET8 in 7 minutes | 2024 | 2025 | Debug. Video. Youtube. Katsottavissa: https://www.youtube.com/watch?v=QetDIxDorFI. Katsottu: 01.12.2024.
-
+* Thompson, T. 5.5.2023. History of AI in Games - Video Game - F.E.A.R. modl.ai. Luettavissa: https://modl.ai/fear/. Luettu: 01.12.2024.
